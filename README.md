@@ -1,3 +1,4 @@
 # Coderbyte
 
-- [Challenges](/challenges)
+## Challenges
+- [First Reverse](/challenges/first-reverse)
