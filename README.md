@@ -5,3 +5,4 @@
 - [Letter Change](/challenges/letter-changes)
 - [Longest Word](challenges/longest-word)
 - [Simple Adding](challenges/simple-adding)
+- [Letter Capitalize](challenges/letter-capitalize)
